@@ -9,3 +9,5 @@
 - http://www.geonames.org
 - http://hao.199it.com/citydata.html 这个网站提供了很多免费的API
 - https://cadmapper.com/ 超过200个城市的地理信息CAD模型
+- http://www.gadm.org
+- http://www.upnews.cn/ 国内的城市数据分享网站，做得很不错
